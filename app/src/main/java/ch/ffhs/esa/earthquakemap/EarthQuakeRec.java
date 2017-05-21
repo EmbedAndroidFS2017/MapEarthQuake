@@ -10,6 +10,7 @@ public class EarthQuakeRec {
 		this.magnitude = magnitude;
 	}
 
+	// Sind getters schneller als direkte public Eigenschaften?
 	public double getLat() {
 		return lat;
 	}

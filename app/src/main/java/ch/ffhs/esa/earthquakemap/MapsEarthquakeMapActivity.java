@@ -26,7 +26,6 @@ import com.google.android.gms.maps.model.MarkerOptions;
 public class MapsEarthquakeMapActivity extends Activity {
 
 	// Coordinates used for centering the Map
-
 	private static final double CAMERA_LNG = 87.0;
 	private static final double CAMERA_LAT = 17.0;
 
@@ -35,7 +34,6 @@ public class MapsEarthquakeMapActivity extends Activity {
 
 	// URL for getting the earthquake
 	// replace with your own user name
-
 	private final static String UNAME = "cheeyam";
 	private final static String URL = "http://api.geonames.org/earthquakesJSON?north=44.1&south=-9.9&east=-22.4&west=55.2&username="
 			+ UNAME;
@@ -53,33 +51,21 @@ public class MapsEarthquakeMapActivity extends Activity {
 	private class HttpGetTask extends
 			AsyncTask<String, Void, List<EarthQuakeRec>> implements OnMapReadyCallback{
 
-		AndroidHttpClient mClient = AndroidHttpClient.newInstance("");
 		private List<EarthQuakeRec> mEarthQuakeList;
 
 		@Override
 		protected List<EarthQuakeRec> doInBackground(String... params) {
             String urlString = params[0];
-            try {
-                java.net.URL url = new java.net.URL(urlString);
-                HttpURLConnection connection = (HttpURLConnection)url.openConnection();
-                JSONResponseHandler responseHandler = new JSONResponseHandler();
-                return responseHandler.handleResponse(readInputStreamToString(connection));
-            }
-            catch (MalformedURLException e){
-                Log.i(TAG, "MalformedURLException");
-            }
-            catch (IOException ex){
-                Log.i(TAG, "IOException");
-            }
+            // TODO: use JSONResponseHandler to return the list of EarthQuakeRec.
+
+
 			return null;
 		}
 
 		@Override
 		protected void onPostExecute(List<EarthQuakeRec> result) {
-			// Get Map Object
 			mEarthQuakeList = result;
-			((MapFragment) getFragmentManager().findFragmentById(
-					R.id.map)).getMapAsync(this);
+            //TODO: Get Map Object using getMapAsync on the MapFragment.
 		}
 
 		// Assign marker color
@@ -98,38 +84,20 @@ public class MapsEarthquakeMapActivity extends Activity {
 		public void onMapReady(GoogleMap googleMap) {
 			mMap = googleMap;
 			if (null != mMap) {
-				// Add a marker for every earthquake
-				for (EarthQuakeRec rec : mEarthQuakeList) {
+				// TODO: Add a marker for every earthquake
+							// TODO: Set the Marker's position
 
-					// Add a new marker for this earthquake
-					mMap.addMarker(new MarkerOptions()
+							// TODO: Set the title of the Marker's information window
 
-							// Set the Marker's position
-							.position(new LatLng(rec.getLat(), rec.getLng()))
+							// TODO: Set the color for the Marker
 
-							// Set the title of the Marker's information window
-							.title(String.valueOf(rec.getMagnitude()))
 
-							// Set the color for the Marker
-							.icon(BitmapDescriptorFactory
-									.defaultMarker(getMarkerColor(rec
-											.getMagnitude()))));
-
-				}
-
-				// Center the map
-				// Should compute map center from the actual data
-
-				mMap.moveCamera(CameraUpdateFactory.newLatLng(new LatLng(
-						CAMERA_LAT, CAMERA_LNG)));
-
+				// TODO: Center the map - should compute map center from the actual data
 			}
-
-			if (null != mClient)
-				mClient.close();
 		}
 	}
 
+	// Helper method to extract String from the connection in a buffered fashion.
     private String readInputStreamToString(HttpURLConnection connection) {
         String result = null;
         StringBuffer sb = new StringBuffer();

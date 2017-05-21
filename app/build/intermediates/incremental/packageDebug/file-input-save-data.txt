@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 21 22:37:11 CEST 2017
+#Sun May 21 23:05:22 CEST 2017
 20.base=C\:\\projects\\MapEarthQuake\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\projects\\MapEarthQuake\\app\\build\\intermediates\\res\\resources-debug.ap_
 439.set=ANDROID_RESOURCE

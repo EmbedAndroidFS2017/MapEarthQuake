@@ -13,21 +13,13 @@ public class JSONResponseHandler  {
 	public List<EarthQuakeRec> handleResponse(String response)
 			throws  IOException {
 		List<EarthQuakeRec> result = new ArrayList<EarthQuakeRec>();
-		String JSONResponse = response;
-		try {
-			JSONObject object = (JSONObject) new JSONTokener(JSONResponse)
-					.nextValue();
-			JSONArray earthquakes = object.getJSONArray("earthquakes");
-			for (int i = 0; i < earthquakes.length(); i++) {
-				JSONObject tmp = (JSONObject) earthquakes.get(i);
-				result.add(new EarthQuakeRec(
-						tmp.getDouble("lat"),
-						tmp.getDouble("lng"),
-						tmp.getDouble("magnitude")));
-			}
-		} catch (JSONException e) {
-			e.printStackTrace();
-		}
+
+		/*
+		Response ist eine Array.
+		Ein Eintrag der Array sieht so aus:
+		{"datetime":"2016-03-02 12:55:00","depth":24,"lng":94.275,"src":"us","eqid":"us10004u1y","magnitude":7.8,"lat":-4.9082}
+		 */
+		// TODO: mittels JSONTokener, JSONObject, die Liste von EarthQuakeRec erstellen.
 		return result;
 	}
 
