@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\cheey\.android\build-cache\1e37a86def23a4a2e4f75b9063bc245c07d76476\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] C:\Users\cheey\.android\build-cache\076d01d9b447fbb71b328b0ee2fd4b204e189e79\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] C:\Users\cheey\.android\build-cache\671c5b2b0a7389ba6062d396cac93927318239e4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\cheey\.android\build-cache\9743b9fcce6b19a3a20394146025185e37adb53b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\cheey\.android\build-cache\3c962ef0362d3f15cb9092f64b6b4392968f5717\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\cheey\.android\build-cache\64bf65bfbf32a20cc157e2a1b9542f1c7e8db79a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\cheey\.android\build-cache\26b1b148744297db68193a58959bbc9f95b50f3b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\cheey\.android\build-cache\7e0f4eebcb874ac397842c7dc11067c5c585a97b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\cheey\.android\build-cache\37f47b9fffeb4f5ae15f52d7815290464652e182\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\cheey\.android\build-cache\f95f3cf8e1c7671f9bc3c56a73854b5b79252877\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\cheey\.android\build-cache\82b940a3663138d62751e36341f77ff8862b3f7a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\cheey\.android\build-cache\e2ff0320f66385826a4488fed7157a5bcaff2caf\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\cheey\.android\build-cache\485c4953b4e99ae861beb9a7a7573b4f5e1ed901\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\cheey\.android\build-cache\91e332462138f174ca4f1bb47fe718c43690d60f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] C:\Users\cheey\.android\build-cache\514104e89bd6250912ff93a87148360c6f4388b8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] C:\Users\cheey\.android\build-cache\d341fb3a19dd2a347f20838bc7f807a13eb6667b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] C:\Users\cheey\.android\build-cache\d44d54dc5063d3d3173de99f8b11bbd5e1491366\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] C:\Users\cheey\.android\build-cache\82dfbe5ed992411c048ec637542e3e2159d75bae\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] C:\Users\cheey\.android\build-cache\f52ec70523317ceb69d13936b2044dade50a536d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] C:\Users\cheey\.android\build-cache\f82be52e121dd65b7a2c040b3f2fff32fa772581\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] C:\Users\cheey\.android\build-cache\11b48373b0d87c553f9e185fb0dfed7ccd03bda1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\cheey\.android\build-cache\f369a0b6f7a1ff47b22a69abaf05bac35aa980d0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\cheey\.android\build-cache\9d54a8b32e1bbc71c9f73459e81bdeb4d2c09ab8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] C:\Users\cheey\.android\build-cache\40da8e0f20f80863af7d0c8b497a844e18883e59\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\cheey\.android\build-cache\c0424df9ca4f6b71dc937792493dd0c85ad7d28b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] C:\Users\cheey\.android\build-cache\b6827045bf20aa4c766edc2716505099b2aa6469\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\cheey\.android\build-cache\6807fc30dbeff2a893645606b5e0a815e0518973\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\cheey\.android\build-cache\10d6b60cdffcfe95fc41b3ec2167e9dbfd11ddf8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] C:\Users\cheey\.android\build-cache\17044f29179aeaf1a943a86c4f4cf4e57d27fa78\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\cheey\.android\build-cache\65b5995e53d8f735d38613039809e8333186d7b0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] C:\Users\cheey\.android\build-cache\08656a8f7fe43f465b5e99bd84f9fb509700dbc4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] C:\Users\cheey\.android\build-cache\3bc30f1564fcae36447460ad0bfca82276c666c2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] C:\Users\cheey\.android\build-cache\150ced1a3459b815f359df4befcf29a453518d32\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] C:\Users\cheey\.android\build-cache\1d4fdf4ac65dacad00a60a3d3655d6a16584ad7d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e630bb24ac2cb9605cc0edddc8b943527f057d5a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] C:\Users\cheey\.android\build-cache\f2690fd286395295588725b487d3a6bd8e7f81f0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] C:\Users\cheey\.android\build-cache\ca940e2ebcbc28ba303412784721b00a89bef7df\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] C:\Users\cheey\.android\build-cache\db3f6f4ccf81d62a035db58eaf12219ece202a93\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\cheey\.android\build-cache\423c23c7ffbd6fff5b256b2dfe6824711f2c101e\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\cheey\.android\build-cache\2ed134b0168e85d9de72d3f0a26416a373f2095e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\cheey\.android\build-cache\f396a3a8110c5fd08f2920260d2ac30c59761eb5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\cheey\.android\build-cache\1d93b54279e5c2ae149911cc7297eae280c7174c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\cheey\.android\build-cache\20d84ffa76bbcc19253f31fe254ab836ba1ded4d\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\cheey\.android\build-cache\26b1b148744297db68193a58959bbc9f95b50f3b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\cheey\.android\build-cache\485c4953b4e99ae861beb9a7a7573b4f5e1ed901\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\cheey\.android\build-cache\9d54a8b32e1bbc71c9f73459e81bdeb4d2c09ab8\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\cheey\.android\build-cache\c0424df9ca4f6b71dc937792493dd0c85ad7d28b\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e630bb24ac2cb9605cc0edddc8b943527f057d5a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\cheey\.android\build-cache\423c23c7ffbd6fff5b256b2dfe6824711f2c101e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\cheey\.android\build-cache\10d6b60cdffcfe95fc41b3ec2167e9dbfd11ddf8\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e630bb24ac2cb9605cc0edddc8b943527f057d5a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\cheey\.android\build-cache\423c23c7ffbd6fff5b256b2dfe6824711f2c101e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:15:22-95
+uses-feature#0x00020000
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:17:5-19:35
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\cheey\.android\build-cache\423c23c7ffbd6fff5b256b2dfe6824711f2c101e\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:18:9-41
+	android:required
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:19:9-32
+application
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:21:5-41:19
+MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\cheey\.android\build-cache\1e37a86def23a4a2e4f75b9063bc245c07d76476\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\cheey\.android\build-cache\9743b9fcce6b19a3a20394146025185e37adb53b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\cheey\.android\build-cache\3c962ef0362d3f15cb9092f64b6b4392968f5717\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\cheey\.android\build-cache\64bf65bfbf32a20cc157e2a1b9542f1c7e8db79a\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\cheey\.android\build-cache\26b1b148744297db68193a58959bbc9f95b50f3b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\cheey\.android\build-cache\7e0f4eebcb874ac397842c7dc11067c5c585a97b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\cheey\.android\build-cache\37f47b9fffeb4f5ae15f52d7815290464652e182\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\cheey\.android\build-cache\f95f3cf8e1c7671f9bc3c56a73854b5b79252877\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\cheey\.android\build-cache\82b940a3663138d62751e36341f77ff8862b3f7a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\cheey\.android\build-cache\e2ff0320f66385826a4488fed7157a5bcaff2caf\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\cheey\.android\build-cache\485c4953b4e99ae861beb9a7a7573b4f5e1ed901\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\cheey\.android\build-cache\91e332462138f174ca4f1bb47fe718c43690d60f\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] C:\Users\cheey\.android\build-cache\f52ec70523317ceb69d13936b2044dade50a536d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] C:\Users\cheey\.android\build-cache\f82be52e121dd65b7a2c040b3f2fff32fa772581\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] C:\Users\cheey\.android\build-cache\11b48373b0d87c553f9e185fb0dfed7ccd03bda1\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\cheey\.android\build-cache\f369a0b6f7a1ff47b22a69abaf05bac35aa980d0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\cheey\.android\build-cache\9d54a8b32e1bbc71c9f73459e81bdeb4d2c09ab8\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] C:\Users\cheey\.android\build-cache\40da8e0f20f80863af7d0c8b497a844e18883e59\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\cheey\.android\build-cache\c0424df9ca4f6b71dc937792493dd0c85ad7d28b\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\cheey\.android\build-cache\6807fc30dbeff2a893645606b5e0a815e0518973\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\cheey\.android\build-cache\10d6b60cdffcfe95fc41b3ec2167e9dbfd11ddf8\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] C:\Users\cheey\.android\build-cache\17044f29179aeaf1a943a86c4f4cf4e57d27fa78\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\cheey\.android\build-cache\65b5995e53d8f735d38613039809e8333186d7b0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] C:\Users\cheey\.android\build-cache\08656a8f7fe43f465b5e99bd84f9fb509700dbc4\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] C:\Users\cheey\.android\build-cache\3bc30f1564fcae36447460ad0bfca82276c666c2\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] C:\Users\cheey\.android\build-cache\1d4fdf4ac65dacad00a60a3d3655d6a16584ad7d\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e630bb24ac2cb9605cc0edddc8b943527f057d5a\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] C:\Users\cheey\.android\build-cache\f2690fd286395295588725b487d3a6bd8e7f81f0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] C:\Users\cheey\.android\build-cache\db3f6f4ccf81d62a035db58eaf12219ece202a93\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\cheey\.android\build-cache\423c23c7ffbd6fff5b256b2dfe6824711f2c101e\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\cheey\.android\build-cache\2ed134b0168e85d9de72d3f0a26416a373f2095e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\cheey\.android\build-cache\f396a3a8110c5fd08f2920260d2ac30c59761eb5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\cheey\.android\build-cache\1d93b54279e5c2ae149911cc7297eae280c7174c\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\cheey\.android\build-cache\20d84ffa76bbcc19253f31fe254ab836ba1ded4d\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:23:9-45
+activity#ch.ffhs.esa.earthquakemap.MapsEarthquakeMapActivity
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:26:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.google.android.gms.version
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:35:9-37:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\cheey\.android\build-cache\1d93b54279e5c2ae149911cc7297eae280c7174c\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:36:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:38:9-40:71
+	android:value
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:40:13-68
+	android:name
+		ADDED from C:\projects\MapEarthQuake\app\src\main\AndroidManifest.xml:39:13-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e630bb24ac2cb9605cc0edddc8b943527f057d5a\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\cheey\.android\build-cache\9d54a8b32e1bbc71c9f73459e81bdeb4d2c09ab8\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\cheey\.android\build-cache\c0424df9ca4f6b71dc937792493dd0c85ad7d28b\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\cheey\.android\build-cache\9d54a8b32e1bbc71c9f73459e81bdeb4d2c09ab8\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\AndroidManifest.xml:19:19-85

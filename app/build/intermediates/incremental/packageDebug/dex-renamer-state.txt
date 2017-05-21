@@ -1,0 +1,7 @@
+#Sun May 21 22:37:11 CEST 2017
+base.0=C\:\\projects\\MapEarthQuake\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bff08e984ec3430d29ba51745249608d7787229c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\projects\\MapEarthQuake\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9851b805a4801b3b83c95d3aba1bae821461e8e9\\classes.dex
+base.1=C\:\\projects\\MapEarthQuake\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9851b805a4801b3b83c95d3aba1bae821461e8e9
+file.0=C\:\\projects\\MapEarthQuake\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bff08e984ec3430d29ba51745249608d7787229c\\classes.dex

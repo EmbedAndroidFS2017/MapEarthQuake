@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\a7da36ca07a133ad54dd972526a1f33508292adb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d82ff2b9fb4db64daa71df82a6203247792fb42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\423c23c7ffbd6fff5b256b2dfe6824711f2c101e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f5b029f734d8e96ddfae71f0e338a5fe95d6e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\f396a3a8110c5fd08f2920260d2ac30c59761eb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52286e24a3bd3d45dd0dd5933155f22b1aa7c0cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\076d01d9b447fbb71b328b0ee2fd4b204e189e79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39f576d4e531c2907d6337f674cea86715664951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\1d4fdf4ac65dacad00a60a3d3655d6a16584ad7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b6f28d3eed836649c1952144a6e12f8f0719032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\3c962ef0362d3f15cb9092f64b6b4392968f5717\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_fa35b9bfd9c3d1ae149f6d22cf7f547534c6fe7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\28f6f4527be4ad6ba327a77c94e799f2c3db47ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8db98d2e486f758bdbeac27f0bcb52ceacdcb614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\a8fb5ea3e79f07b810b4830bf525ee785315d29b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e246eb2068ccd5005569d531c9759e2d47387325\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\f2690fd286395295588725b487d3a6bd8e7f81f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce587bca1d3e2d624bf8ef7e1819ea9d445b5f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\37f47b9fffeb4f5ae15f52d7815290464652e182\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51ed1d71b2dfc42633d8e6ad8bc795d62e709ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\b6827045bf20aa4c766edc2716505099b2aa6469\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e444e320e87bc48be0334885dd59884de539707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\20d84ffa76bbcc19253f31fe254ab836ba1ded4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bbdd412419c5d61532bf79b381c85195a10cb7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\ca940e2ebcbc28ba303412784721b00a89bef7df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52c81f3481eaa7d87d9da92833934121e0566d5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\15db1ab17e56bcc46af8cb37d33d8957bda1c635\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a646118897f3a3719c6c0e46deef9c4efbef167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\e630bb24ac2cb9605cc0edddc8b943527f057d5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57879959b2c2cede547bfe20baf90dc79f8b258a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\d341fb3a19dd2a347f20838bc7f807a13eb6667b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45dcf4870514bec8d4d5b347c3c4bf6615c8c022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\e2ff0320f66385826a4488fed7157a5bcaff2caf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a5d498115920106a6489e7f8412635f482a6f1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\e1adc029e15c6438fbe2c4f13377a8d92ee7c134\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0b5d1e13983f09cc712bc181ccf914314ba8a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\20d84ffa76bbcc19253f31fe254ab836ba1ded4d\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_91b79d7a9cb13b58f36753225d534120b7903f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\0a103aae6b186880e474e42ad02234a5addcfaf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68fad6e6a4e374b3c49b6fa0790c3d7335cb061d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\f95f3cf8e1c7671f9bc3c56a73854b5b79252877\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b4ba9807080e9ec3cb8731cf2512b621cd8d5f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\1d93b54279e5c2ae149911cc7297eae280c7174c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4242b7d0628b11c435f1a6fae621194c2acc5ce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\cf4d72807cdf61c51229825f89f19506abbb41e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98d871188f68fb1e329d407fce8323f15cfcf474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\82dfbe5ed992411c048ec637542e3e2159d75bae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_168380c0a63143541beccfc32f6d1cea6d373031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\9743b9fcce6b19a3a20394146025185e37adb53b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_969d0845d6a97b6a7d95c6e0f4be852948240f70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\projects\MapEarthQuake\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbbeb43503fdbd6c74ae083f6cdddcdc71be8af">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bff08e984ec3430d29ba51745249608d7787229c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\08656a8f7fe43f465b5e99bd84f9fb509700dbc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_390d7b5d25086cb375a446c40400b9c4e881403c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\7e0f4eebcb874ac397842c7dc11067c5c585a97b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bd62ad05f55435733c14f02266c000c70f72600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\e04a4ea766ba0deacce220357d936945468fa57c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d7a4fa415383415fdceb0bd52f8dde7b74f8542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\26b1b148744297db68193a58959bbc9f95b50f3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bda3fbf4759fd20d4916c3cdb13992e4d5e9411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\db3f6f4ccf81d62a035db58eaf12219ece202a93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc1140362e31858a48af8f4527e001beda28f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\91e332462138f174ca4f1bb47fe718c43690d60f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a063648d1f6f616f1253c32c02b5309327407d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\485c4953b4e99ae861beb9a7a7573b4f5e1ed901\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7829f5d6b2ab836365c69d6027e6aab900d2373d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\6807fc30dbeff2a893645606b5e0a815e0518973\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c36c8960c34411824856c1e472568200a4c05699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\f52ec70523317ceb69d13936b2044dade50a536d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c89ca856d5a3e33feaa237ee21db5b9339eaf87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\61d6309f7fb7c249cacd9673dd042dd5f580d191\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a673c65a3f2c42820041d682ac05af867ee713e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\40da8e0f20f80863af7d0c8b497a844e18883e59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d9f57339bf8afd0c4b0398ce05ca6ea76a573a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\3c962ef0362d3f15cb9092f64b6b4392968f5717\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a20bf142b74950fa98f12c456bb0dedc615ee996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\c0424df9ca4f6b71dc937792493dd0c85ad7d28b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc1fd0a1c3129aa595f79e60666d0bae8868fce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\10d6b60cdffcfe95fc41b3ec2167e9dbfd11ddf8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cc905a90adc45cf56b08cdef64380b7b0587455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\d44d54dc5063d3d3173de99f8b11bbd5e1491366\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2ab7fa571d7d615856848122c40b78b34b0be2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\65b5995e53d8f735d38613039809e8333186d7b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cd10d5783c70451e2fe784425d528c481fe5cdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\f82be52e121dd65b7a2c040b3f2fff32fa772581\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_141d7edf44cf21eb0c5ff97cda6b05ea0cc317c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\82b940a3663138d62751e36341f77ff8862b3f7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_916ae38e695135a7b764d28d052044dcb6cb4d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_6a1d460cecbd26778631c0af8ba50ee5f9c281a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\3dd63dd4248a98cd31e24b4e9695e5d75a47d934\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_745676cd08cc720f1324c7bd5fc34ef4fc6fe31d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\9d54a8b32e1bbc71c9f73459e81bdeb4d2c09ab8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1b66730fad076b076db2c6b953832a0834e79f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\11b48373b0d87c553f9e185fb0dfed7ccd03bda1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3379954034b2c2a902d5196967b5bbb3cad89fab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\64bf65bfbf32a20cc157e2a1b9542f1c7e8db79a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71b04b73c96471cf5a98099ac55ff2a21f435917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\150ced1a3459b815f359df4befcf29a453518d32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1ab56e3f5e711f3039f7bf3d17ab62f1dd971de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\2ed134b0168e85d9de72d3f0a26416a373f2095e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b0c7bd6558c1860ee4f29467800952451918faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\17044f29179aeaf1a943a86c4f4cf4e57d27fa78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f115e9a4bad331a6b44fb6598976c98d682c55d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\projects\MapEarthQuake\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9851b805a4801b3b83c95d3aba1bae821461e8e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\514104e89bd6250912ff93a87148360c6f4388b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277ef03d3872b1cf108b0f0ed7e947ae374870c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\83b3b25b2ce49734cdd628f9b0403a60ec9b57f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_900e7a3ff175e3bb5de488a581815df06629d82b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\671c5b2b0a7389ba6062d396cac93927318239e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6196c1a07b3ea89cbfe443744b044f59dffaf4f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\f369a0b6f7a1ff47b22a69abaf05bac35aa980d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34e17047b289f5b02675a3eeab6da65bc857c547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\c90d161d518a440da0c2e656214521673e96ec26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94527fa36636250d2b88c6c4dc1f7d4c77c9a046\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheey\.android\build-cache\3bc30f1564fcae36447460ad0bfca82276c666c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="C:\projects\MapEarthQuake\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4989c1ad11db2176711df213cd82a39bad6a8ad3\classes.dex" />
+    </item>
+
+</items>
